@@ -30,7 +30,7 @@ in the correct directory.
 -   In your root directory `cd ~`, let's move to our downloads file by `cd
     Downloads/`, then run `git clone <link copied from github>`.
 
--   Move into the `oritentation` directory by typing `cd orientation/`. This directory contains another directory called `config/` containing scripts that we will run to set up our machines!
+-   Move into the `orientation` directory by typing `cd orientation/`. This directory contains another directory called `config/` containing scripts that we will run to set up our machines!
 
 ### Configuring Git
 
